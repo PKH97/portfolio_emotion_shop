@@ -43,4 +43,4 @@ mybatis:
 
 file:
 #  path: C:\portfolio\KakaoEmotionShop\upload\emo
-  path: /home/ubuntu/KakaoEmotionShop/upload/
+  path: /home/ubuntu/protfolio_emotion_shop/upload/
